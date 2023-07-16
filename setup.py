@@ -9,7 +9,7 @@ setup(
   author           = "D. H. B. Marcos",
   author_email     = "dhbmarcos@gmail.com",
   url              = "https://gitlab.com/dhbmarcos/sgml2dict",
-  download_url     = "https://gitlab.com/dhbmarcos/sgml2dict/-/releases/v0.0.1.tag.gz",
+  download_url     = "https://gitlab.com/dhbmarcos/sgml2dict/-/archive/0.0.1/sgml2dict-0.0.2.tar.gz",
   keywords         = ["SGML", "DICT", "XML", "HTML"],
   install_requires = [],
   classifiers=[
