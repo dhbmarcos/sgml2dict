@@ -41,6 +41,10 @@ Dictionary view: {'name': 'hello', 'attributes': {'world': True}}
 JSON view: {"name": "hello", "attributes": {"world": true}}
 ```
 
+## Support
+
+https://gitlab.com/dhbmarcos/sgml2dict
+
 ## License
 
  - MIT License
