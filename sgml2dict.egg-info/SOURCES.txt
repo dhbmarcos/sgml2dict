@@ -1,0 +1,11 @@
+LICENSE
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+sgml2dict/__init__.py
+sgml2dict/sgml2dict.py
+sgml2dict.egg-info/PKG-INFO
+sgml2dict.egg-info/SOURCES.txt
+sgml2dict.egg-info/dependency_links.txt
+sgml2dict.egg-info/top_level.txt
