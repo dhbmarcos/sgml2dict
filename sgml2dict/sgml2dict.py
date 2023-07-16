@@ -1,11 +1,9 @@
-#!/usr/bin/python3
-#
-# Convert SGML text to dictionary.
-#
-# version:   0.0.1
-# support:   dhbmarcos.com
-# copyright: 2023 (c) D. H. B. Marcos. All rights reserved.
-#
+"""
+Convert SGML text to dictionary.
+
+support:   https://gitlab.com/dhbmarcos/sgml2dict
+copyright: 2023 (c) D. H. B. Marcos. All rights reserved.
+"""
 
 _STATE_NONE             = 0
 _STATE_TAG_NAME         = 1
@@ -190,5 +188,7 @@ def _parse_tags(text):
 
 
 def convert(text):
-    # Convert SGML text to dictionary.
+    """
+    Convert SGML text to dictionary.
+    """
     return _parse_tags(text)
